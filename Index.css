@@ -1,14 +1,5 @@
-:root {
-    --mainWhite: #f5f5f5;
-    --mainGreen: #7fb800;
-    --mainBlue: #0d2c54;
-    --lightBlue: #00a6ed;
-    --mainBlack: #333333;
-  }
-  
-  
-  body {
-    background: url("../counter/background.jpeg") center/cover fixed no-repeat;
+ body {
+    background: url("../background.jpeg") center/cover fixed no-repeat;
     color: #f5f5f5;
     align-items: center;
   }
